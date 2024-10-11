@@ -20,8 +20,8 @@ criaCartao.(
    
     criaCartao.(
     'Inglês,
-    'Como se diz obrigado em inglês?',
-    ''Thanks)
+    Como se diz obrigado em inglês?,
+    Thanks)
     
     criaCartao.(
     'Inglês,
