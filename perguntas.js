@@ -1,6 +1,6 @@
 criaCartao(
 'Matemática' ,
-    'Quantos graus tem um triangulo equilátero',
+    'Quantos graus tem um triangulo equilátero?',
     '180')
     
     criaCartao(
