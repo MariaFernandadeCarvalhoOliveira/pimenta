@@ -20,4 +20,4 @@ function viraCartao(){
 cartao.addEventListerner('click',viraCartao);
 
 container.appendChild(cartao);
-
+}
