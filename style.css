@@ -2,7 +2,7 @@
     --fundo:#C0C0C0;
     --cartao-frente:#808080;
     --cartao-verso:#696969;
-    --destaque:#ff0000;
+    --destaque:#000000;
     --preto:#000000;
     --branco:#ffffff;
 }
@@ -77,4 +77,5 @@ footer{
     font-weight: 700;
     color: var(--destaque);
     border: 2px solid var(--destaque);
+    background-color: var(--cartao-frente);
 }
