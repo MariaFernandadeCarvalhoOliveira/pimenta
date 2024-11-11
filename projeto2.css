@@ -56,7 +56,7 @@ cursor: pointer;
 }
 
 .resposta-cartao{
-    background-color: var(--cartao-frente);
+    background-color: var(--cartao-verso);
     padding: 2rem;
     text-align: center;
     color: var(--destaque);
